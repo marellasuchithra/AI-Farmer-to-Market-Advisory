@@ -1,0 +1,11 @@
+streamlit
+requests
+numpy
+edge-tts
+langdetect
+opencv-python-headless
+deep_translator
+streamlit-js-eval
+geopy
+pandas
+altair
